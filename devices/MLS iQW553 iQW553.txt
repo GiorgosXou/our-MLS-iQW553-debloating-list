@@ -72,7 +72,7 @@ com.android.providers.calendar
 
 [INSTALL]
 com.fsck.k9                            # Mail
-com.fossify.clock|1                    # Clock
+org.fossify.clock|1                    # Clock
 com.omgodse.notally                    # Notes
 org.fossify.phone|4                    # Dialer
 org.fossify.gallery                    # Gallery
