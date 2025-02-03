@@ -91,7 +91,7 @@ org.fdroid.fdroid                      # F-Droid - app store
 helium314.keyboard                     # HeliBoard - Keyboard
 org.schabi.newpipe                     # NewPipe - YouTube client
 com.aurora.store                       # Aurora - FOSS Play Store
-us.spotco.fennec_dos                   # Mull - Browser (IMPORTANT: See README.md)
+org.mozilla.fennec_fdroid              # Fennec - Firefox Browser
 
 [SHELL]
 settings put global transition_animation_scale 0.0               # Setting "Transition animation scale" to 0
